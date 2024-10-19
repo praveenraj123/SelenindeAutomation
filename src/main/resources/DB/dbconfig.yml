@@ -1,0 +1,6 @@
+
+#Please update the DB details
+dbConnectorData:
+  url: jdbc:mysql://localhost:3306/classicmodels
+  user: root
+  pass: praveen13
