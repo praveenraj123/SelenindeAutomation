@@ -1,4 +1,3 @@
-
 #Please update the DB details
 dbConnectorData:
   url: jdbc:mysql://localhost:3306/classicmodels
